@@ -1,0 +1,58 @@
+{
+	padding: 0;
+	margin: 0;
+}
+
+
+.bg-fond{
+	background:transparent ;
+	
+}
+
+
+.fa-facebook-f {font-size: 19px!important; }
+.fa-twitter{font-size: 19px!important; }
+.fa-youtube{font-size: 19px!important; }
+
+
+.navbar .navbar-brand{
+	color: #bdbdbd !important;
+	font-size: 27px;
+	font-weight: 600;	
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.navbar-toggler-icon{color: black!important;}
+
+
+.navbar .nav-item .nav-link{
+	font-size: 15px;
+	text-decoration: none;
+  
+	font-weight: 600;
+	color: #bdbdbd !important;
+	font-family: 'Fjalla One', sans-serif;
+
+}
+
+.navbar .nav-item .nav-link:hover{
+	color: #424242!important;
+}
+
+.carousel-inner{
+	height: 500px;
+}
+.carousel-inner img{
+	height: 500px;
+}
+
+.header{
+   padding: 15px;
+   background: url(../img/2.jpg) no-repeat center;
+   background-size: cover;
+   min-height: 80vh;
+
+}
+
+
+

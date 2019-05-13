@@ -1,0 +1,265 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+#fondopagina{
+	background: rgba(242,242,242);
+}
+
+.bg-fond{
+	background:rgba(233,233,233); 
+	
+}
+
+
+.f .cols{
+	background: #fff;
+	padding: 29px;
+		box-shadow: 0 5px 8px 0 rgba(0,0,0,0.12),
+            0 2px 4px 0 rgba(0,0,0,0.08);
+}
+
+.fa-facebook-f { color: #3A5795; font-size: 19px!important; }
+.fa-twitter{color: #5EA9DD; font-size: 19px!important; }
+.fa-youtube{color: #CC181E; font-size: 19px!important; }
+.fa-cogs{color: #ef5350 ; margin-bottom: 15px;}
+.fa-screwdriver{color: #ef5350 ; margin-bottom: 15px;}
+.fa-cog{color: #ef5350 ; margin-bottom: 15px;}
+.navbar{
+	height: 85px;
+}
+
+.navbar .navbar-nav{
+	height: 70px;
+  text-transform: uppercase;
+
+
+}
+.con1{
+	padding: 2 0px;
+	background: rgba(18,20,24);
+  height: auto;
+	color: #fff;
+  position: relative;
+  top: 80px;
+}
+
+.f .mibtn
+{ background: transparent;
+border:  1px solid #ef5350;
+color: #000;
+}
+.f .mibtn:hover
+{ background: #ef5350;;
+border:  1px solid #ef5350;
+color: #fff;
+}
+
+
+.navbar-toggler-icon{color: black!important;}
+
+.navbar .nav-item .nav-link{
+	font-size: 14px;
+	text-decoration: none;
+    margin: 0 3px;
+	font-weight: 600;
+	color: #757575!important;
+	font-family: 'Fjalla One', sans-serif;
+
+}
+
+.navbar .nav-item .nav-link:hover{
+	color: #424242!important;
+}
+
+.carousel-inner{
+	height: 400px;
+}
+.carousel-inner img{
+	height: 400px;
+}
+.contenedorsesion1{
+	background: #fff;
+    position: relative;
+    margin-top: -20px;
+    padding: 30px;
+}
+.contenedorsesion1 .txtmantenimiento{
+	font-size: 25px;
+	color: #ef5350 ;
+}
+.contenedorsesion1 .txtmantenimiento2{
+	font-size: 20px;
+	padding: 25px;
+	color: #ef5350 ;
+}
+.jumbotron{
+  position: relative;
+  top: 80px;
+  padding: 80px;
+   background: url(../img/sol5.jpg) no-repeat center;
+   background-size: cover;
+   min-height: 60vh;
+   margin: 0!important;
+   color: #fff;
+   font-family: 'Fjalla One', sans-serif;
+
+}
+
+.fondonavhamburguesa .navbar-nav{
+  background-color: rgba(233,233,233);
+  padding: 20px;
+  cursor: pointer;
+  height: auto;
+}
+
+.cols{
+  margin:20px; 
+}
+
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    background: #000;
+    border-color: rgba(255,255,255,.1);
+}
+
+.jumbotron2{
+   background: url(../img/1.jpg) no-repeat center;
+   background-size: cover;
+   min-height: 60vh;
+   margin: 0!important;
+   color: #fff;
+   font-family: 'Fjalla One', sans-serif;
+}
+
+.jumbotron3{
+   background: url(../img/sol6.jpg) no-repeat center;
+   background-size: cover;
+   min-height: 60vh;
+   margin: 0!important;
+   color: #fff;
+   font-family: 'Fjalla One', sans-serif;
+}
+.titulo{
+	font-size: 28px!important;
+}
+.titulo2{
+  font-size: 28px!important;
+   font-family: 'Fjalla One', sans-serif;
+}
+.vl {
+  border-left: 2px solid #ef9a9a;
+  height: 600px;
+}
+
+
+
+.contacto .form-group {
+	margin-bottom: 0;
+}
+.contacto{margin: 0!important;}
+.formulario input[type='text'],
+.formulario input[type='email'],
+.formulario textarea {
+	padding: 15px;
+	border: none;
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 30px;
+}
+
+.formulario textarea {
+	height: 150px;
+	min-height: 150px;
+	max-height: 250px;
+}
+
+.formulario .boton {
+	background: #ef5350 ;
+	border: none;
+	padding: 7px 30px;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	cursor: pointer;
+	width: auto;
+	border-radius: 3px;
+}
+.rowfotter{
+	margin: 0!important;
+}
+.formulario .boton:hover {
+	background: #ef9a9a;
+}
+
+#myFooter {
+    background-color: rgba(18,20,24);
+    color: white;
+    padding-top: 20px;
+}
+
+#map-container {
+    height: 240px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#myFooter .row {
+    margin: 0 85px;
+}
+
+#myFooter .footer-copyright {
+    background-color: rgba(233,233,233);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#myFooter .footer-copyright p {
+    margin: 10px;
+    color: #616161;
+}
+
+#myFooter .container {
+    width: auto;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+#myFooter .social-networks {
+
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 38px;
+}
+
+@media (min-width: 360px) and (max-width: 820px){
+ .vl{
+  display: none;
+ }
+ }
